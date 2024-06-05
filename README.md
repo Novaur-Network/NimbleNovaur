@@ -1,3 +1,5 @@
-# NimbleAquamarine - WWP patches for Aquamarine on Aroma
+# NimbleNovaur - WWP patches for NovaNetwork on Aroma
 
-Mod of Nimble for WWP on Aquamarine
+Mod of Nimble for WWP on NovaNetwork
+
+based on aquamarine (animal farm)'s fork of Pretendo's nimble
