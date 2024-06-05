@@ -17,7 +17,7 @@ include $(DEVKITPRO)/wut/share/wut_rules
 # DATA is a list of directories containing data files
 # INCLUDES is a list of directories containing header files
 #-------------------------------------------------------------------------------
-TARGET		:=	30_nimble_aquamarine
+TARGET		:=	30_nimble_novaur
 BUILD		:=	build
 SOURCES		:=	source source/cJSON
 DATA		:=	data
